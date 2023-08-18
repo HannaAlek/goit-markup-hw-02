@@ -9,7 +9,7 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.034em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -71,7 +71,7 @@
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07; /* 107.143% */
-    letter-spacing: 0.07em;
+    letter-spacing: 0.02em;
     color: white;
     text-align: center;
 }
@@ -102,7 +102,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.025em;
+    letter-spacing: 0.02em;
 }
 
 .section-two-list-text{
@@ -123,7 +123,7 @@
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11; /* 111.111% */
-    letter-spacing: 0.045em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     color:#2e2f42;
@@ -142,7 +142,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.025em;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -160,7 +160,7 @@
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11; /* 111.111% */
-    letter-spacing: 0.045em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
@@ -175,7 +175,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.025em;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -197,7 +197,7 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.034em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
