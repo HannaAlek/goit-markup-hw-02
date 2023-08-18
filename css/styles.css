@@ -9,7 +9,7 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.54px;
+    letter-spacing: 0.034em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -28,9 +28,9 @@
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     text-decoration: none;
-    color: inherit;
+    color: #2e2f42;
 }
 
 .link:hover,
@@ -55,7 +55,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .adress-link:hover,
@@ -71,7 +71,7 @@
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07; /* 107.143% */
-    letter-spacing: 1.12px;
+    letter-spacing: 0.07em;
     color: white;
     text-align: center;
 }
@@ -84,7 +84,7 @@
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
 }
 
 .button:hover,
@@ -102,7 +102,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.4px;
+    letter-spacing: 0.025em;
 }
 
 .section-list-text{
@@ -110,7 +110,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -123,9 +123,10 @@
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11; /* 111.111% */
-    letter-spacing: 0.72px;
+    letter-spacing: 0.045em;
     text-transform: capitalize;
     text-align: center;
+    color:#2e2f42;
 }
 
 .section-three-list{
@@ -141,7 +142,8 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.4px;
+    letter-spacing: 0.025em;
+    color: #2E2F42;
 }
 
 .section-three-text{
@@ -149,7 +151,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -158,9 +160,10 @@
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11; /* 111.111% */
-    letter-spacing: 0.72px;
+    letter-spacing: 0.045em;
     text-transform: capitalize;
     text-align: center;
+    color: #2e2f42;
 }
 
 .sectoin-potfolio-list{
@@ -172,7 +175,8 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.4px;
+    letter-spacing: 0.025em;
+    color: #2e2f42;
 }
 
 .sectoin-potfolio-text{
@@ -180,7 +184,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -193,7 +197,7 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.54px;
+    letter-spacing: 0.034em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -208,6 +212,6 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     color: #F4F4FD;
 }
