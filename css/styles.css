@@ -92,11 +92,11 @@
     background-color:#404BBF;
 }
 
-.section-list{
+.section-two-list{
     list-style-type: none;
 }
 
-.section-list-title{
+.section-two-list-title{
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -105,7 +105,7 @@
     letter-spacing: 0.025em;
 }
 
-.section-list-text{
+.section-two-list-text{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
