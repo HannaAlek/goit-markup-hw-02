@@ -1,0 +1,39 @@
+body{
+    font-family:"Roboto", sans-serif;
+    color:#2E2F42;
+    background-color:white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+button{
+    cursor: pointer;
+}
+
+.link{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.32px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.link:hover,
+.link:focus{
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.adress-link{
+    text-decoration: none;
+    color: #434455;
+}
+
+.adress-link:hover,
+.adress-link:focus{
+    color: #404BBF;
+}
