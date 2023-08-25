@@ -24,7 +24,6 @@
 }
 
 .link{
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
@@ -48,10 +47,8 @@
 }
 
 .adress-link{
-    font-family: "Roboto", sans-serif;
     text-decoration: none;
     color: #434455;
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
@@ -67,9 +64,7 @@
     background-color: #2E2F42;
 }
 .title-hero{
-    font-family: Roboto;
     font-size: 56px;
-    font-weight: 700;
     line-height: 1.07; /* 107.143% */
     letter-spacing: 0.02em;
     color: white;
@@ -80,7 +75,6 @@
     cursor: pointer;
     background-color: #4D5AE5;
     color: white;
-    font-family: inherit;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
@@ -98,7 +92,6 @@
 
 .section-two-list-title{
     color: #2E2F42;
-    font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
@@ -106,9 +99,7 @@
 }
 
 .section-two-list-text{
-    font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
     color: #434455;
@@ -119,9 +110,7 @@
 }
 
 .section-three-title{
-    font-family: Roboto;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -138,7 +127,6 @@
 }
 
 .section-three-list-title-name{
-    font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
@@ -147,18 +135,14 @@
 }
 
 .section-three-text{
-    font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
     color: #434455;
 }
 
 .sectoin-potfolio-title{
-    font-family: Roboto;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -171,7 +155,6 @@
 }
 
 .sectoin-potfolio-title-name{
-    font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
@@ -180,9 +163,7 @@
 }
 
 .sectoin-potfolio-text{
-    font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
     color: #434455;
@@ -208,9 +189,7 @@
 }
 
 .page-footer-text{
-    font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
     color: #F4F4FD;
